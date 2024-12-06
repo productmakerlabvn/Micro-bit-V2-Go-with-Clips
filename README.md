@@ -30,7 +30,7 @@ Micro:bit V2 Go with Clips Parts
 1. Xây dựng một hệ thống điều khiển tự động nhiều chức năng cần bắt đầu từ việc xây dựng các chức năng riêng lẻ, sau đó mới ghép nối thành hệ thống hoàn chỉnh sẽ giúp bạn dễ dàng phát hiện ra các lỗi gặp phải.
 
 > Lưu ý:
-Mọi thắc mắc về cách sử dụng các bạn có thể gửi câu hỏi hỗ trợ tại trang Facebook "MakerLab.vn - Không Gian Sáng Chế" hoặc Nhóm "Cộng đồng Maker Vietnam".
+Mọi thắc mắc xin liên hệ Facebook [**"MakerLab.vn RnD"**](https://www.facebook.com/makerlabvn) hoặc Nhóm [**"Maker DIY Vietnam"**](https://www.facebook.com/groups/makervn/).
 
 ## Hướng dẫn sử dụng mạch Micro:bit V2 và phần mềm MadeCode
 
@@ -53,7 +53,7 @@ Mọi thắc mắc về cách sử dụng các bạn có thể gửi câu hỏi 
 
 ## Liên hệ
 
-Mọi thắc mắc xin liên hệ Facebook "MakerLab.vn - Không Gian Sáng Chế" hoặc Nhóm "Cộng đồng Maker Vietnam".
+Mọi thắc mắc xin liên hệ Facebook [**"MakerLab.vn RnD"**](https://www.facebook.com/makerlabvn) hoặc Nhóm [**"Maker DIY Vietnam"**](https://www.facebook.com/groups/makervn/).
 
 Email: <contact.makerlabvn@gmail.com>
 
