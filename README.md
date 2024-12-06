@@ -7,7 +7,8 @@ Bộ Micro:bit V2 Go with Clips được xây dựng dựa trên bo mạch chín
 
 Mạch Micro:bit có thể coi như một chiếc máy tính thu nhỏ giúp bạn có thể tìm hiểu về cách phần cứng và phần mềm hoạt động cùng nhau, nó tích hợp các thành phần cơ bản như đèn Led, nút nhấn và các chân giao tiếp để khi bạn lập trình nó sẽ hoạt động theo mong muốn của bạn, các mạch Micro:bit phiên bản mới nhất còn được tích hợp thêm Microphone và Loa để đó thể thu nhận và phát tín hiệu âm thanh, bạn có thể tham khảo thêm tại [trang chủ Micro:bit](https://microbit.org/get-started/first-steps/introduction/) và xem video giới thiệu về Micro:bit dưới đây:
 
-<iframe width="560" height="315" src="https://youtu.be/u2u7UJSRuko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u2u7UJSRuko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 
 Danh sách và chức năng của các linh kiện
 Micro:bit V2 Go with Clips Parts
