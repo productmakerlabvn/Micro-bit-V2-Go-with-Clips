@@ -58,33 +58,32 @@ basic.forever(function () {
 > Lưu ý:  
 > Màu sắc của các khối lệnh sẽ tương ứng với các mục chứa khối lệnh trên phần mềm MakeCode, các bạn dựa vào màu sắc này để có thể tìm kiếm dễ dàng hơn.
 
-Chương trình sẽ được đặt trong hai khối cơ bản của một chương trình chạy trên Micro:bit là Khối <span style="color:#1E90FF"><b>[ on start ]</b></span> và Khối <span style="color:#1E90FF"><b>[ forever ]</b></span>:
+Chương trình sẽ được đặt trong hai khối cơ bản của một chương trình chạy trên Micro:bit là Khối **[ on start ]** và Khối **[ forever ]**:  
 
-Khối [ on start ] - các khối lệnh nằm trong khối này được thực hiện đầu tiên và chỉ thực hiện <u>1 lần duy nhất</u>, khi Micro:bit khởi động.
+Khối **[ on start ]** - các khối lệnh nằm trong khối này được thực hiện đầu tiên và chỉ thực hiện 1 lần duy nhất, khi Micro:bit khởi động.  
 
-Khối [ show icon ]: Hiển thị một Icon có sẵn lên màn hình Led của Micro:bit.
-Khối [ Pause (ms) ]: Chương trình tạm dừng trong khoảng thời gian mong muốn, đơn vị là mili giây (ms), 1000ms = 1s.
-Khối [ show leds ]: Hiển thị hình ảnh tuỳ chọn bất kỳ lên màn hình Led của Micro:bit.
-Khối [ clear screen ]: Xoá các nội dung hiển thị lên màn hình Led của Micro:bit.
-Khối [ forever ] - khối này được thực hiện sau khối [ on start ], và được lặp lại liên tục cho đến khi Micro:bit tắt nguồn.
+- Khối **[ show icon ]**: Hiển thị một Icon có sẵn lên màn hình Led của Micro:bit.
+- Khối **[ Pause (ms) ]**: Chương trình tạm dừng trong khoảng thời gian mong muốn, đơn vị là mili giây (ms), 1000ms = 1s.
+- Khối **[ show leds ]**: Hiển thị hình ảnh tuỳ chọn bất kỳ lên màn hình Led của Micro:bit.
+- Khối **[ clear screen ]**: Xoá các nội dung hiển thị lên màn hình Led của Micro:bit.  
 
-Khối [ for do ]: giúp thay đổi giá trị "index" tăng dần từ 0 đến 9.
-Khối [ show number ]: Hiển thị giá trị dạn số (từ 0 đến 9) lên màn hình Led của Micro:bit.
+Khối **[ forever ]** - khối này được thực hiện sau khối **[ on start ]**, và được lặp lại liên tục cho đến khi Micro:bit tắt nguồn.
+
+- Khối **[ for do ]**: giúp thay đổi giá trị "index" tăng dần từ 0 đến 9.
+- Khối **[ show number ]**: Hiển thị giá trị dạn số (từ 0 đến 9) lên màn hình Led của Micro:bit.
 
 ### Kết quả
 
 Sau khi hiển thị các Icon và hình ảnh, màn hình Led sẽ hiển thị số từ 0 đến 9 và lặp lại như hình:
 
-![](/ex/less01/image/03_1050px-Screenshot_2023-07-26_at_16.39.50.png)
+![](/ex/less01/image/03_1050px-Screenshot_2023-07-26_at_16.39.50.png)  
 Led Screen 5x5 Example Micro:bit
 
 ## Tài liệu tham khảo
 
-Các khối Basic của Micro:bit.
+- [Các khối Basic của Micro:bit.](https://makecode.microbit.org/reference/basic)
 
 ## Bài viết liên quan
 
-Bộ Micro:bit V2 Go with Clips
-Bài 2: Nhận tín hiệu từ nút nhấn
-
-<span style="color:#1E90FF">Đây là văn bản màu xanh.</span>
+[Bộ Micro:bit V2 Go with Clips](/README.md)
+[Bài 2: Nhận tín hiệu từ nút nhấn](/ex/less02/README.md)
