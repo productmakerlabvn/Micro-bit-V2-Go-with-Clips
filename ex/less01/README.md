@@ -85,5 +85,5 @@ Led Screen 5x5 Example Micro:bit
 
 ## Bài viết liên quan
 
-[Bộ Micro:bit V2 Go with Clips](/README.md)
-[Bài 2: Nhận tín hiệu từ nút nhấn](/ex/less02/README.md)
+- [Bộ Micro:bit V2 Go with Clips](/README.md)
+- [Bài 2: Nhận tín hiệu từ nút nhấn](/ex/less02/README.md)
