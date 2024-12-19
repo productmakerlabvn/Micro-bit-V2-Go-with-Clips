@@ -34,9 +34,7 @@ Mọi thắc mắc xin liên hệ Facebook [**"MakerLab.vn RnD"**](https://www.f
 
 ## Hướng dẫn sử dụng mạch Micro:bit V2 và phần mềm MadeCode
 
-1. Giới thiệu về mạch Micro:bit và phần mềm MakeCode
-1. Cách kết nối và nạp chương trình cho mạch Micro:bit trên máy tính với phần mềm MakeCode
-1. Cách kết nối và nạp chương trình cho mạch Micro:bit trên điện thoại, máy tính bảng với phần mềm MakeCode
+[Hướng dẫn cài đặt phần mềm, nạp chương trình, cài đặt Extension mBlock cơ bản.](https://github.com/makerlabvn/MakeCode-microbit)
 
 ## Các bài thực hành
 
