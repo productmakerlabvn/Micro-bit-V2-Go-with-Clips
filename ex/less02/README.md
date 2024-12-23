@@ -16,7 +16,7 @@ Micro:bit button
 
 ### Chuẩn bị trước dự án
 
-- Tham khảo: Cách kết nối và nạp chương trình cho mạch Micro:bit trên máy tính với phần mềm MakeCode - MakerLab Wiki.
+- Tham khảo: [Hướng dẫn cài đặt phần mềm, nạp chương trình, cài đặt Extension mBlock cơ bản](https://github.com/makerlabvn/MakeCode-microbit)
 
 ### Các bước thực hiện
 
