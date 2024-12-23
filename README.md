@@ -38,14 +38,15 @@ Mọi thắc mắc xin liên hệ Facebook [**"MakerLab.vn RnD"**](https://www.f
 
 ## Các bài thực hành
 
-- Bài 1: Hiển thị trên màn hình Led
-- Bài 2: Nhận tín hiệu từ nút nhấn
-- Bài 3: Phát âm thanh với còi Buzzer
-- Bài 4: Cảm biến gia tốc xác định hướng
-- Bài 5: Đổ xúc xắc
-- Bài 6: La bàn số
-- Bài 7: Máy đo thông số môi trường
-- Bài 8: Đàn Piano lá cây
+- [Bài 1: Hiển thị trên màn hình Led](/ex/less01/README.md)
+- [Bài 2: Nhận tín hiệu từ nút nhấn](/ex/less02/README.md)
+- [Bài 3: Phát âm thanh với còi Buzzer](/ex/less03/README.md)
+- [Bài 4: Cảm biến gia tốc xác định hướng](/ex/less04/README.md)
+- [Bài 5: Đổ xúc xắc](/ex/less05/README.md)
+- [Bài 6: La bàn số](/ex/less06/README.md)
+- [Bài 7: Máy đo thông số môi trường](/ex/less07/README.md)
+- [Bài 8: Đàn Piano lá cây](/ex/less08/README.md)  
+
 ![](/image/03Microbit_touch_sensing_Example.png)
 1 trong 8 dự án trong Bộ Micro:bit V2 Go with Clips: "Đàn Piano lá cây".
 
