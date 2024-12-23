@@ -156,12 +156,12 @@ Micro:bit Touch Sensing Example
 
 ## Tài liệu tham khảo
 
-- Các khối Basic.
-- Các khối Input.
-- Các khối Music.
-- Các khối Pins.
+- [Các khối Basic.](https://makecode.microbit.org/reference/basic)
+- [Các khối Input.](https://makecode.microbit.org/reference/input)
+- [Các khối Music.](https://makecode.microbit.org/reference/music)
+- [Các khối Pins.](https://makecode.microbit.org/reference/pins)
 
 ## Bài viết liên quan
 
-- Bộ Micro:bit V2 Go with Clips
-- Bài 7: Máy đo thông số môi trường
+- [Bộ Micro:bit V2 Go with Clips](/README.md)
+- [Bài 7: Máy đo thông số môi trường](/ex/less07/README.md)
