@@ -116,7 +116,7 @@ Micro:bit Accelerometer Example
 - [Các khối Basic của Micro:Bit.](https://makecode.microbit.org/reference/basic)
 - [Các khối Input của Micro:bit.](https://makecode.microbit.org/reference/input)
 
-## ài viết liên quan
+## Bài viết liên quan
 
 - [Bộ Micro:bit V2 Go with Clips](/README.md)
 - [Bài 3: Phát âm thanh với còi Buzzer](/ex/less03/README.md)
