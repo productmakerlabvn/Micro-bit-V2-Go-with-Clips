@@ -4,7 +4,7 @@
 
 Trong bài này các bạn sẽ học cách phát âm thanh với còi Buzzer tích hợp trên Micro:bit, kết hợp với nút nhấn và màn hình Led để điều khiển.
 
-![](/ex/less03/image/01_Microbit_buzzer.jpg)
+![](/ex/less03/image/01_Microbit_buzzer.jpg)  
 Microbit buzzer
 
 ## Các bước thực hiện
