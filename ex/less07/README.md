@@ -77,41 +77,41 @@ loops.everyInterval(5000, function () {
 
 ## Giải thích code
 
-Chương trình hoạt động:
+<u>Chương trình hoạt động</u>:
 
 Trong khối **[on start]**.
 
 - Đầu tiên Micro:bit sẽ hiển thị "mặt cười" trong 1 giây rồi tắt, bước này để chúng ta biết bo mạch đã sẵn sàng hoạt động.
-- Đồng thời biến "mode" được đặt thành 0.
+- Đồng thời biến **"mode"** được đặt thành `0`.
 
-Vai trò của biến "mode":
+<u>Vai trò của biến **"mode"**</u>:
 
 - Để cho chương trình biết phải hoạt động ở chế độ nào.
-  - Bằng 0, nghĩa là không làm gì cả.
-  - Bằng 1, thì sử dụng cảm biến Nhiệt độ.
-  - Bằng 2, thì sử dụng cảm biến Ánh sáng.
+  - Bằng `0`, nghĩa là không làm gì cả.
+  - Bằng `1`, thì sử dụng cảm biến Nhiệt độ.
+  - Bằng `2`, thì sử dụng cảm biến Ánh sáng.
 
-Các khối sự kiện:
+<u>Các khối sự kiện</u>:
 
 - Nhấn nút A để thực thi khối **[on button A pressed]**.
   - Đầu tiên thực thi khối **[stop animation]** để dừng việc hiển thị trên màn hình Led (nếu đang có).
-  - Đặt biến "mode" thành 0, để tạm dừng việc sử dụng các cảm biến.
-  - Hiển thị dòng chữ "TEMP" (viết tắt của Temperature), trên màn hình Led để thông báo chuẩn bị vào chế độ đọc Nhiệt độ môi trường.
-  - Đặt biến "mode" thành 1 để micro:Bit được sử dụng cảm biến Nhiệt độ.
+  - Đặt biến "mode" thành `0`, để tạm dừng việc sử dụng các cảm biến.
+  - Hiển thị dòng chữ `"TEMP"` (viết tắt của Temperature), trên màn hình Led để thông báo chuẩn bị vào chế độ đọc Nhiệt độ môi trường.
+  - Đặt biến "mode" thành `1` để micro:Bit được sử dụng cảm biến Nhiệt độ.
 
 - Nhấn nút B để thực thi khối **[on button B pressed]**.
   - Đầu tiên thực thi khối **[stop animation]** để dừng việc hiển thị trên màn hình Led (nếu đang có).
-  - Đặt biến "mode" thành 0, để tạm dừng việc sử dụng các cảm biến.
-  - Hiển thị dòng chữ "LIGHT", trên màn hình Led để thông báo chuẩn bị vào chế độ đọc Ánh sáng môi trường.
-  - Đặt biến "mode" thành 2 để micro:Bit được sử dụng cảm biến Ánh sáng.
+  - Đặt biến "mode" thành `0`, để tạm dừng việc sử dụng các cảm biến.
+  - Hiển thị dòng chữ `"LIGHT"`, trên màn hình Led để thông báo chuẩn bị vào chế độ đọc Ánh sáng môi trường.
+  - Đặt biến "mode" thành `2` để micro:Bit được sử dụng cảm biến Ánh sáng.
 
-Vai trò của khối **[forever]**:
+<u>Vai trò của khối [forever]</u>:
 
 - Khối này đảm nhiệm thực hiện đọc cảm biến Ánh sáng với tần suất liên tục.
-  - Giá trị cường độ ánh sáng lấy từ khối **[light level]**, với dãi giá trị trả về "từ 0 đến 255".
+  - Giá trị cường độ ánh sáng lấy từ khối **[light level]**, với dãi giá trị trả về *"từ 0 đến 255"*.
   - Sau đó được đưa vào khối **[plot bar graph of ... up to "255"]** để hiển thị mức độ ánh sáng trên màn hình Led.
 
-Vai trò của khối **[every "5000" ms]**:
+<u>Vai trò của khối [every "5000" ms]</u>:
 
 - Khối này đảm nhiệm thực hiện đọc cảm biến Nhiệt độ với tần suất 5 giây mỗi lần.
   - Giá trị nhiệt độ lấy từ khối **[temperature (ºC)]**, đơn vị là độ Celsius.
