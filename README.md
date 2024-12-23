@@ -5,7 +5,7 @@
 ![](/image/01Microbit_V2_Go_with_Clips.png)
 Bộ Microbit V2 Go with Clips
 
-Bộ Micro:bit V2 Go with Clips được xây dựng dựa trên bo mạch chính Micro:bit V2 và các phụ kiện cơ bản để có thể sử dụng: Pin, Hộp Pin, Cáp USB, Dây nối kẹp cá sấu. Việc lập trình cho Micro:bit sử dụng phần mềm MakeCode dưới dạng kéo thả khối trực quan được chính Microsoft phát triển.
+**Bộ Micro:bit V2 Go with Clips** được xây dựng dựa trên bo mạch chính Micro:bit V2 và các phụ kiện cơ bản để có thể sử dụng: Pin, Hộp Pin, Cáp USB, Dây nối kẹp cá sấu. Việc lập trình cho Micro:bit sử dụng phần mềm MakeCode dưới dạng kéo thả khối trực quan được chính Microsoft phát triển.
 
 Mạch Micro:bit có thể coi như một chiếc máy tính thu nhỏ giúp bạn có thể tìm hiểu về cách phần cứng và phần mềm hoạt động cùng nhau, nó tích hợp các thành phần cơ bản như đèn Led, nút nhấn và các chân giao tiếp để khi bạn lập trình nó sẽ hoạt động theo mong muốn của bạn, các mạch Micro:bit phiên bản mới nhất còn được tích hợp thêm Microphone và Loa để đó thể thu nhận và phát tín hiệu âm thanh, bạn có thể tham khảo thêm tại [trang chủ Micro:bit](https://microbit.org/get-started/first-steps/introduction/) và xem video giới thiệu về Micro:bit dưới đây:
 
@@ -26,7 +26,7 @@ Micro:bit V2 Go with Clips Parts
 
 ## Hướng dẫn sử dụng Bộ Micro:bit V2 Go with Clips
 
-1. Nếu là lần đầu tiên sử dụng phần mềm MakeCode và mạch Micro:bit các bạn cần đọc kỹ và làm theo các bước trong "Hướng dẫn sử dụng mạch Micro:bit V2 và phần mềm MadeCode" dưới đây trước khi vào "Các bài thực hành".
+1. Nếu là lần đầu tiên sử dụng phần mềm **MakeCode** và mạch **Micro:bit** các bạn cần đọc kỹ và làm theo các bước trong "Hướng dẫn sử dụng mạch Micro:bit V2 và phần mềm MadeCode" dưới đây trước khi vào "Các bài thực hành".
 1. Xây dựng một hệ thống điều khiển tự động nhiều chức năng cần bắt đầu từ việc xây dựng các chức năng riêng lẻ, sau đó mới ghép nối thành hệ thống hoàn chỉnh sẽ giúp bạn dễ dàng phát hiện ra các lỗi gặp phải.
 
 > Lưu ý:
@@ -34,20 +34,19 @@ Mọi thắc mắc xin liên hệ Facebook [**"MakerLab.vn RnD"**](https://www.f
 
 ## Hướng dẫn sử dụng mạch Micro:bit V2 và phần mềm MadeCode
 
-1. Giới thiệu về mạch Micro:bit và phần mềm MakeCode
-1. Cách kết nối và nạp chương trình cho mạch Micro:bit trên máy tính với phần mềm MakeCode
-1. Cách kết nối và nạp chương trình cho mạch Micro:bit trên điện thoại, máy tính bảng với phần mềm MakeCode
+[Hướng dẫn cài đặt phần mềm, nạp chương trình, cài đặt Extension mBlock cơ bản.](https://github.com/makerlabvn/MakeCode-microbit)
 
 ## Các bài thực hành
 
-1. Bài 1: Hiển thị trên màn hình Led
-1. Bài 2: Nhận tín hiệu từ nút nhấn
-1. Bài 3: Phát âm thanh với còi Buzzer
-1. Bài 4: Cảm biến gia tốc xác định hướng
-1. Bài 5: Đổ xúc xắc
-1. Bài 6: La bàn số
-1. Bài 7: Máy đo thông số môi trường
-1. Bài 8: Đàn Piano lá cây
+- [Bài 1: Hiển thị trên màn hình Led](/ex/less01/README.md)
+- [Bài 2: Nhận tín hiệu từ nút nhấn](/ex/less02/README.md)
+- [Bài 3: Phát âm thanh với còi Buzzer](/ex/less03/README.md)
+- [Bài 4: Cảm biến gia tốc xác định hướng](/ex/less04/README.md)
+- [Bài 5: Đổ xúc xắc](/ex/less05/README.md)
+- [Bài 6: La bàn số](/ex/less06/README.md)
+- [Bài 7: Máy đo thông số môi trường](/ex/less07/README.md)
+- [Bài 8: Đàn Piano lá cây](/ex/less08/README.md)  
+
 ![](/image/03Microbit_touch_sensing_Example.png)
 1 trong 8 dự án trong Bộ Micro:bit V2 Go with Clips: "Đàn Piano lá cây".
 
