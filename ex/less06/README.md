@@ -4,7 +4,7 @@
 
 Trong bài này, các bạn sẽ làm quen với cảm biến la bàn số được tích hợp sẵn trên mạch Micro:bit, cảm biến la bàn số giúp bạn xác định được hướng di chuyển của mạch Micro:bit theo từ trường của trái đất, từ đó các bạn có thể thực hiện các ứng dụng cần xác định phương hướng như: la bàn, xác định vị trí, hướng di chuyển,...
 
-![](/ex/less06/image/01_750px-Microbit_compasses.jpg)
+![](/ex/less06/image/01_750px-Microbit_compasses.jpg)   
 Micro:bit compasses
 
 ## Các bước thực hiện
@@ -79,13 +79,13 @@ Trong khối **[ forever ]**.
 - Chương trình sẽ lấy giá trị góc quay của cảm biến la bàn số bằng khối **[ compass heading (º) ]** (từ 0º đến 359º) để lưu vào biến "degrees" qua khối **[ set to ]**.
 - Dựa theo giá trị mà cảm biến trả về, ta sử dụng khối điều khiện **[ if else ]** để hiển thị 8 trường hợp xảy ra ra màn hình led qua khối **[ show arrow ]**:
     1. Giá trị nằm trong khoảng `(337.5º - 22.5º)`, màn hình Led hiển thị mũi tên hướng North **[↑]**, tức đầu bo micro:Bit đang hướng về phía Bắc.
-    1. Trong khoảng `(22.5º - 67.5º)`, màn hình Led hiển thị mũi tên hướng North East **[↗]**.
-    1. Trong khoảng `(67.5º - 112.5º)`, màn hình Led hiển thị mũi tên hướng East **[→]**.
-    1. Trong khoảng `(112.5º - 157.5º)`, màn hình Led hiển thị mũi tên hướng South East **[↘]**.
-    1. Trong khoảng `(157.5º - 202.5º)`, màn hình Led hiển thị mũi tên hướng South **[↓]**.
-    1. Trong khoảng `(202.5º - 247.5º)`, màn hình Led hiển thị mũi tên hướng South West **[↙]**.
-    1. Trong khoảng `(247.5º - 292.5º)`, màn hình Led hiển thị mũi tên hướng West **[←]**.
-    1. Trong khoảng `(292.5º - 337.5º)`, màn hình Led hiển thị mũi tên hướng North West **[↖]**.
+    2. Trong khoảng `(22.5º - 67.5º)`, màn hình Led hiển thị mũi tên hướng North East **[↗]**.
+    3. Trong khoảng `(67.5º - 112.5º)`, màn hình Led hiển thị mũi tên hướng East **[→]**.
+    4. Trong khoảng `(112.5º - 157.5º)`, màn hình Led hiển thị mũi tên hướng South East **[↘]**.
+    5. Trong khoảng `(157.5º - 202.5º)`, màn hình Led hiển thị mũi tên hướng South **[↓]**.
+    6. Trong khoảng `(202.5º - 247.5º)`, màn hình Led hiển thị mũi tên hướng South West **[↙]**.
+    7. Trong khoảng `(247.5º - 292.5º)`, màn hình Led hiển thị mũi tên hướng West **[←]**.
+    8. Trong khoảng `(292.5º - 337.5º)`, màn hình Led hiển thị mũi tên hướng North West **[↖]**.
 
 ### Kết quả
 
